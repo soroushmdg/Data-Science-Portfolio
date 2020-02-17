@@ -4,3 +4,4 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents
 - R 
   - [Predicting Algae Blooms](https://rpubs.com/soroushmdg/573500): Predicting algae blooms using multiple linear regression, decision tree and random forest.   
+  - [Stock Market Return](https://rpubs.com/soroushmdg/574456)
